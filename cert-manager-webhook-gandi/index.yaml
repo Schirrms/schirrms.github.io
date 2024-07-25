@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2024-07-25T11:25:06.18740267+02:00"
+entries:
+  cert-manager-webhook-gandi:
+  - apiVersion: v2
+    appVersion: 0.4.8
+    created: "2024-07-25T11:49:21.701503149+02:00"
+    description: A Helm chart for cert-manager-webhook-gandi
+    digest: c971ccdf0982dec4b5d6b6da9115376702d2839f076c06b993cbf81879829fa7
+    name: cert-manager-webhook-gandi
+    urls:
+    - https://schirrms.github.io/cert-manager-webhook-gandi/cert-manager-webhook-gandi-v0.4.8.tgz
+    version: v0.4.8
+generated: "2024-07-25T11:49:21.700892938+02:00"
